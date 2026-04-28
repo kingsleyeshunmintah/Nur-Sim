@@ -1,0 +1,87 @@
+[05-Apr-2026 09:39:14 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_current_user() in C:\xampp\htdocs\Nur-Sim\PhP\backend\auth.php on line 3
+[05-Apr-2026 09:39:14 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_current_user() in C:\xampp\htdocs\Nur-Sim\PhP\backend\auth.php on line 3
+[05-Apr-2026 09:39:14 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_current_user() in C:\xampp\htdocs\Nur-Sim\PhP\backend\auth.php on line 3
+[05-Apr-2026 09:39:14 Europe/Berlin] PHP Fatal error:  Cannot redeclare get_current_user() in C:\xampp\htdocs\Nur-Sim\PhP\backend\auth.php on line 3
+[05-Apr-2026 09:39:34 Europe/Berlin] Original REQUEST_URI: /Nur-Sim/PhP/api.php/test
+[05-Apr-2026 09:39:34 Europe/Berlin] Original path: /Nur-Sim/PhP/api.php/test
+[05-Apr-2026 09:39:34 Europe/Berlin] Matched Nur-Sim/PhP/api.php pattern, extracted path: /test
+[05-Apr-2026 09:39:34 Europe/Berlin] Final path: /test
+[05-Apr-2026 09:39:34 Europe/Berlin] API Request: GET /test
+[05-Apr-2026 09:39:34 Europe/Berlin] REQUEST_URI: /Nur-Sim/PhP/api.php/test
+[05-Apr-2026 09:39:34 Europe/Berlin] Parsed path: /test
+[05-Apr-2026 09:40:09 Europe/Berlin] Original REQUEST_URI: /Nur-Sim/PhP/api.php/auth/register
+[05-Apr-2026 09:40:09 Europe/Berlin] Original path: /Nur-Sim/PhP/api.php/auth/register
+[05-Apr-2026 09:40:09 Europe/Berlin] Matched Nur-Sim/PhP/api.php pattern, extracted path: /auth/register
+[05-Apr-2026 09:40:09 Europe/Berlin] Final path: /auth/register
+[05-Apr-2026 09:40:09 Europe/Berlin] API Request: POST /auth/register
+[05-Apr-2026 09:40:09 Europe/Berlin] REQUEST_URI: /Nur-Sim/PhP/api.php/auth/register
+[05-Apr-2026 09:40:09 Europe/Berlin] Parsed path: /auth/register
+[05-Apr-2026 09:40:11 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\Nur-Sim\PhP\backend\email.php on line 16
+[05-Apr-2026 09:42:30 Europe/Berlin] Original REQUEST_URI: /Nur-Sim/PhP/api.php/auth/register
+[05-Apr-2026 09:42:30 Europe/Berlin] Original path: /Nur-Sim/PhP/api.php/auth/register
+[05-Apr-2026 09:42:30 Europe/Berlin] Matched Nur-Sim/PhP/api.php pattern, extracted path: /auth/register
+[05-Apr-2026 09:42:30 Europe/Berlin] Final path: /auth/register
+[05-Apr-2026 09:42:30 Europe/Berlin] API Request: POST /auth/register
+[05-Apr-2026 09:42:30 Europe/Berlin] REQUEST_URI: /Nur-Sim/PhP/api.php/auth/register
+[05-Apr-2026 09:42:30 Europe/Berlin] Parsed path: /auth/register
+[05-Apr-2026 09:42:32 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\Nur-Sim\PhP\backend\email.php on line 16
+[05-Apr-2026 09:42:43 Europe/Berlin] Original REQUEST_URI: /Nur-Sim/PhP/api.php/test
+[05-Apr-2026 09:42:43 Europe/Berlin] Original path: /Nur-Sim/PhP/api.php/test
+[05-Apr-2026 09:42:43 Europe/Berlin] Matched Nur-Sim/PhP/api.php pattern, extracted path: /test
+[05-Apr-2026 09:42:43 Europe/Berlin] Final path: /test
+[05-Apr-2026 09:42:43 Europe/Berlin] API Request: GET /test
+[05-Apr-2026 09:42:43 Europe/Berlin] REQUEST_URI: /Nur-Sim/PhP/api.php/test
+[05-Apr-2026 09:42:43 Europe/Berlin] Parsed path: /test
+[05-Apr-2026 09:42:57 Europe/Berlin] Original REQUEST_URI: /Nur-Sim/PhP/api.php/
+[05-Apr-2026 09:42:57 Europe/Berlin] Original path: /Nur-Sim/PhP/api.php
+[05-Apr-2026 09:42:57 Europe/Berlin] Matched Nur-Sim/PhP/api.php pattern, extracted path: /
+[05-Apr-2026 09:42:57 Europe/Berlin] Final path: /
+[05-Apr-2026 09:42:57 Europe/Berlin] API Request: GET /
+[05-Apr-2026 09:42:57 Europe/Berlin] REQUEST_URI: /Nur-Sim/PhP/api.php/
+[05-Apr-2026 09:42:57 Europe/Berlin] Parsed path: /
+[05-Apr-2026 09:42:57 Europe/Berlin] Original REQUEST_URI: /Nur-Sim/PhP/api.php/test
+[05-Apr-2026 09:42:57 Europe/Berlin] Original path: /Nur-Sim/PhP/api.php/test
+[05-Apr-2026 09:42:57 Europe/Berlin] Matched Nur-Sim/PhP/api.php pattern, extracted path: /test
+[05-Apr-2026 09:42:57 Europe/Berlin] Final path: /test
+[05-Apr-2026 09:42:57 Europe/Berlin] API Request: GET /test
+[05-Apr-2026 09:42:57 Europe/Berlin] REQUEST_URI: /Nur-Sim/PhP/api.php/test
+[05-Apr-2026 09:42:57 Europe/Berlin] Parsed path: /test
+[05-Apr-2026 09:42:57 Europe/Berlin] Original REQUEST_URI: /Nur-Sim/PhP/api.php/test-db
+[05-Apr-2026 09:42:57 Europe/Berlin] Original path: /Nur-Sim/PhP/api.php/test-db
+[05-Apr-2026 09:42:57 Europe/Berlin] Matched Nur-Sim/PhP/api.php pattern, extracted path: /test-db
+[05-Apr-2026 09:42:57 Europe/Berlin] Final path: /test-db
+[05-Apr-2026 09:42:57 Europe/Berlin] API Request: GET /test-db
+[05-Apr-2026 09:42:57 Europe/Berlin] REQUEST_URI: /Nur-Sim/PhP/api.php/test-db
+[05-Apr-2026 09:42:57 Europe/Berlin] Parsed path: /test-db
+[05-Apr-2026 09:42:57 Europe/Berlin] Original REQUEST_URI: /Nur-Sim/PhP/api.php/auth/register
+[05-Apr-2026 09:42:57 Europe/Berlin] Original path: /Nur-Sim/PhP/api.php/auth/register
+[05-Apr-2026 09:42:57 Europe/Berlin] Matched Nur-Sim/PhP/api.php pattern, extracted path: /auth/register
+[05-Apr-2026 09:42:57 Europe/Berlin] Final path: /auth/register
+[05-Apr-2026 09:42:57 Europe/Berlin] API Request: POST /auth/register
+[05-Apr-2026 09:42:57 Europe/Berlin] REQUEST_URI: /Nur-Sim/PhP/api.php/auth/register
+[05-Apr-2026 09:42:57 Europe/Berlin] Parsed path: /auth/register
+[05-Apr-2026 10:04:02 Europe/Berlin] Original REQUEST_URI: /Nur-Sim/PhP/api.php/test
+[05-Apr-2026 10:04:02 Europe/Berlin] Original path: /Nur-Sim/PhP/api.php/test
+[05-Apr-2026 10:04:02 Europe/Berlin] Matched Nur-Sim/PhP/api.php pattern, extracted path: /test
+[05-Apr-2026 10:04:02 Europe/Berlin] Final path: /test
+[05-Apr-2026 10:04:02 Europe/Berlin] API Request: GET /test
+[05-Apr-2026 10:04:02 Europe/Berlin] REQUEST_URI: /Nur-Sim/PhP/api.php/test
+[05-Apr-2026 10:04:02 Europe/Berlin] Parsed path: /test
+[05-Apr-2026 10:11:56 Europe/Berlin] Original REQUEST_URI: /Nur-Sim/PhP/api.php/cases
+[05-Apr-2026 10:11:56 Europe/Berlin] Original path: /Nur-Sim/PhP/api.php/cases
+[05-Apr-2026 10:11:56 Europe/Berlin] Matched Nur-Sim/PhP/api.php pattern, extracted path: /cases
+[05-Apr-2026 10:11:56 Europe/Berlin] Final path: /cases
+[05-Apr-2026 10:11:56 Europe/Berlin] API Request: GET /cases
+[05-Apr-2026 10:11:56 Europe/Berlin] REQUEST_URI: /Nur-Sim/PhP/api.php/cases
+[05-Apr-2026 10:11:56 Europe/Berlin] Parsed path: /cases
+[05-Apr-2026 10:11:56 Europe/Berlin] API Error: Call to undefined function route_list_cases()
+[05-Apr-2026 10:11:56 Europe/Berlin] Stack trace: #0 {main}
+[05-Apr-2026 10:11:58 Europe/Berlin] Original REQUEST_URI: /Nur-Sim/PhP/api.php/cases
+[05-Apr-2026 10:11:58 Europe/Berlin] Original path: /Nur-Sim/PhP/api.php/cases
+[05-Apr-2026 10:11:58 Europe/Berlin] Matched Nur-Sim/PhP/api.php pattern, extracted path: /cases
+[05-Apr-2026 10:11:58 Europe/Berlin] Final path: /cases
+[05-Apr-2026 10:11:58 Europe/Berlin] API Request: GET /cases
+[05-Apr-2026 10:11:58 Europe/Berlin] REQUEST_URI: /Nur-Sim/PhP/api.php/cases
+[05-Apr-2026 10:11:58 Europe/Berlin] Parsed path: /cases
+[05-Apr-2026 10:11:58 Europe/Berlin] API Error: Call to undefined function route_list_cases()
+[05-Apr-2026 10:11:58 Europe/Berlin] Stack trace: #0 {main}
